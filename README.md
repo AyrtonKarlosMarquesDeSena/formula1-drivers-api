@@ -37,7 +37,7 @@ git clone https://github.com/seu-usuario/formula1-drivers-api.git
 Entre na pasta:
 
 ```bash
-cd formula1-drivers-api
+cd API
 ```
 
 Instale as dependências:
